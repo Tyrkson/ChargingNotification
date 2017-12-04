@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChargingNotification</string>
+    <string name="Switch_showNotification">Show notification while charging</string>
+    <string name="file_name">showNotification</string>
+</resources>
